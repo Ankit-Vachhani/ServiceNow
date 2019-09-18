@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Wait For Condition">d3f92c160b10030085c083eb37673a7f</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>d3f92c160b10030085c083eb37673a7f</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Loaner Laptop">f1577950d5c040107f4400de5ee26d59</flow>
+        <order>4</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:22:00</sys_created_on>
+        <sys_id>5728bd50d5c040107f4400de5ee26d72</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">34c3bc7bd5f733007f4400de5ee26d1a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">34c3bc7bd5f733007f4400de5ee26d1a</sys_scope>
+        <sys_update_name>sys_hub_action_instance_5728bd50d5c040107f4400de5ee26d72</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:41:36</sys_updated_on>
+        <ui_id>0a6de65d-9192-4d5b-8e5d-726b92d33d46</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=5728bd50d5c040107f4400de5ee26d72"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5728bd50d5c040107f4400de5ee26d72</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:30:06</sys_created_on>
+        <sys_id>0e0a3990d5c040107f4400de5ee26d74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:30:06</sys_updated_on>
+        <value>state=18</value>
+        <variable display_value="">5ff92c160b10030085c083eb37673ac1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5728bd50d5c040107f4400de5ee26d72</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:22:00</sys_created_on>
+        <sys_id>1b28bd50d5c040107f4400de5ee26d77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:22:00</sys_updated_on>
+        <value>state=18</value>
+        <variable display_value="">c7f92c160b10030085c083eb37673a49</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5728bd50d5c040107f4400de5ee26d72</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:30:06</sys_created_on>
+        <sys_id>ce0a3990d5c040107f4400de5ee26d74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:30:06</sys_updated_on>
+        <value>x_cdltd_loaner_req_loaner_request</value>
+        <variable display_value="">1ff92c160b10030085c083eb37673a81</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5728bd50d5c040107f4400de5ee26d72</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:22:00</sys_created_on>
+        <sys_id>db28bd50d5c040107f4400de5ee26d77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:22:00</sys_updated_on>
+        <value>x_cdltd_loaner_req_loaner_request</value>
+        <variable display_value="">36f9a8160b10030085c083eb37673af3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=5728bd50d5c040107f4400de5ee26d72"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>5728bd50d5c040107f4400de5ee26d72</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:30:06</sys_created_on>
+        <sys_id>060a3990d5c040107f4400de5ee26d74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:30:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>5728bd50d5c040107f4400de5ee26d72</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:22:00</sys_created_on>
+        <sys_id>1328bd50d5c040107f4400de5ee26d77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:22:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>5728bd50d5c040107f4400de5ee26d72</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:30:06</sys_created_on>
+        <sys_id>8a0a3990d5c040107f4400de5ee26d74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:30:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>5728bd50d5c040107f4400de5ee26d72</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:22:00</sys_created_on>
+        <sys_id>9728bd50d5c040107f4400de5ee26d77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:22:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value>{{Created or Updated_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>5728bd50d5c040107f4400de5ee26d72</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:30:06</sys_created_on>
+        <sys_id>c60a3990d5c040107f4400de5ee26d74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:30:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_d3f92c160b10030085c083eb37673a7f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>5728bd50d5c040107f4400de5ee26d72</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 14:22:00</sys_created_on>
+        <sys_id>d328bd50d5c040107f4400de5ee26d77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 14:22:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_8bb9a8160b10030085c083eb37673aec</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
